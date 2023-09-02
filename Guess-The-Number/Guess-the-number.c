@@ -22,6 +22,7 @@ int main()
         {
             printf("Higher number please\n");
         }
+        
         else
         {
             printf("You got it in %d attempts\n", nguesses);
